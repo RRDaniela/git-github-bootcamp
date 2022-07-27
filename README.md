@@ -1,5 +1,12 @@
+<p>
+	<img src="https://github.com/favicon.ico" width="48">
+</p>
+
 # git-github-bootcamp
 Notes taken out of the Udemy course "Git &amp; Github Bootcamp"
+<p style="text-align:center;">
+	<img src="https://pbs.twimg.com/media/ElxgEdzW0AcROW2.jpg" width="300" class="center">
+</p>
 
 ## What is Git?
 Version control system. (VCS)
