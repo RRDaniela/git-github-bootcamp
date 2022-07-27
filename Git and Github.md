@@ -1,4 +1,4 @@
-What is Git?
+## What is Git?
 Version control system. (VCS)
 	Software that tracks and manages changes to files.
 
